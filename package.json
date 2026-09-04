@@ -15,7 +15,8 @@
 	},
 	"dependencies": {
 		"@openauthjs/openauth": "0.4.3",
-		"valibot": "1.2.0"
+		"valibot": "1.2.0",
+		"hono": "^4.6.0"
 	},
 	"devDependencies": {
 		"typescript": "5.9.3",
